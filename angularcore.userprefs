@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{6FE03183-6AC1-4253-9DC5-825D42944392}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="angularcore.web/src/app/app.module.ts">
+    <Files>
+      <File FileName="angularcore.web/Startup.cs" Line="31" Column="46" />
+      <File FileName="angularcore.web/ValuesController.cs" Line="20" Column="9" />
+      <File FileName="angularcore.web/src/main.ts" Line="11" Column="1" />
+      <File FileName="angularcore.web/src/index.html" Line="14" Column="8" />
+      <File FileName="angularcore.web/src/app/app.component.html" Line="22" Column="37" />
+      <File FileName="angularcore.web/src/app/app.module.ts" Line="3" Column="32" />
+      <File FileName="angularcore.web/src/environments/environment.prod.ts" Line="1" Column="1" />
+      <File FileName="angularcore.web/src/environments/environment.ts" Line="1" Column="1" />
+      <File FileName="angularcore.web/src/app/app.component.ts" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.angularcore.web PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

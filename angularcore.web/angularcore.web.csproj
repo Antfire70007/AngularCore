@@ -1,0 +1,58 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <TypeScriptCompileBlocked>true</TypeScriptCompileBlocked>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+    <Folder Include="src\app\services\" />
+    <Folder Include="src\app\component\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore" Version="1.1.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="1.1.2" />
+<PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="1.1.1" />
+  </ItemGroup>
+
+
+
+  <ItemGroup>
+    <None Remove="angularcore-c\.editorconfig" />
+    <None Remove="angularcore-c\.gitignore" />
+    <None Remove="angularcore-c\README.md" />
+    <None Remove="angularcore-c\angular-cli-build.js" />
+    <None Remove="angularcore-c\config\environment.dev.ts" />
+    <None Remove="angularcore-c\config\environment.js" />
+    <None Remove="angularcore-c\config\environment.prod.ts" />
+    <None Remove="angularcore-c\config\karma-test-shim.js" />
+    <None Remove="angularcore-c\config\karma.conf.js" />
+    <None Remove="angularcore-c\config\protractor.conf.js" />
+    <None Remove="angularcore-c\e2e\app.e2e-spec.ts" />
+    <None Remove="angularcore-c\e2e\app.po.ts" />
+    <None Remove="angularcore-c\e2e\typings.d.ts" />
+    <None Remove="angularcore-c\public\.npmignore" />
+    <None Remove="angularcore-c\src\favicon.ico" />
+    <None Remove="angularcore-c\src\index.html" />
+    <None Remove="angularcore-c\src\main.ts" />
+    <None Remove="angularcore-c\src\system-config.ts" />
+    <None Remove="angularcore-c\src\typings.d.ts" />
+    <None Remove="angularcore-c\src\app\app.component.css" />
+    <None Remove="angularcore-c\src\app\app.component.html" />
+    <None Remove="angularcore-c\src\app\app.component.spec.ts" />
+    <None Remove="angularcore-c\src\app\app.component.ts" />
+    <None Remove="angularcore-c\src\app\environment.ts" />
+    <None Remove="angularcore-c\src\app\index.ts" />
+    <None Remove="angularcore-c\src\app\shared\index.ts" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="angularcore-c\angular-cli.json" />
+    <Content Remove="angularcore-c\package.json" />
+    <Content Remove="angularcore-c\tslint.json" />
+    <Content Remove="angularcore-c\typings.json" />
+    <Content Remove="angularcore-c\e2e\tsconfig.json" />
+    <Content Remove="angularcore-c\src\tsconfig.json" />
+  </ItemGroup>
+</Project>

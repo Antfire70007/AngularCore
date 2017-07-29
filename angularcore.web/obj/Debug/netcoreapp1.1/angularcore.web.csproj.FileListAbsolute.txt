@@ -1,0 +1,9 @@
+/Users/Ajane/Projects/angularcore/angularcore.web/bin/Debug/netcoreapp1.1/angularcore.web.deps.json
+/Users/Ajane/Projects/angularcore/angularcore.web/bin/Debug/netcoreapp1.1/angularcore.web.runtimeconfig.json
+/Users/Ajane/Projects/angularcore/angularcore.web/bin/Debug/netcoreapp1.1/angularcore.web.runtimeconfig.dev.json
+/Users/Ajane/Projects/angularcore/angularcore.web/bin/Debug/netcoreapp1.1/angularcore.web.dll
+/Users/Ajane/Projects/angularcore/angularcore.web/bin/Debug/netcoreapp1.1/angularcore.web.pdb
+/Users/Ajane/Projects/angularcore/angularcore.web/obj/Debug/netcoreapp1.1/angularcore.web.AssemblyInfo.cs
+/Users/Ajane/Projects/angularcore/angularcore.web/obj/Debug/netcoreapp1.1/angularcore.web.dll
+/Users/Ajane/Projects/angularcore/angularcore.web/obj/Debug/netcoreapp1.1/angularcore.web.pdb
+/Users/Ajane/Projects/angularcore/angularcore.web/obj/Debug/netcoreapp1.1/angularcore.web.csprojResolveAssemblyReference.cache
